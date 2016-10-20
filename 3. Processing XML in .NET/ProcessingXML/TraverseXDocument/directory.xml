@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dir name="TraverseXDocument">
+  <file name="10.TraverseXDocument.csproj" />
+  <file name="App.config" />
+  <file name="Program.cs" />
+  <dir name="bin">
+    <dir name="Debug">
+      <file name="TraverseXDocument.exe" />
+      <file name="TraverseXDocument.exe.config" />
+      <file name="TraverseXDocument.pdb" />
+      <file name="TraverseXDocument.vshost.exe" />
+      <file name="TraverseXDocument.vshost.exe.config" />
+      <file name="TraverseXDocument.vshost.exe.manifest" />
+    </dir>
+  </dir>
+  <dir name="obj">
+    <dir name="Debug">
+      <file name="10.TraverseXDocument.csproj.FileListAbsolute.txt" />
+      <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+      <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+      <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+      <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+      <file name="TraverseXDocument.exe" />
+      <file name="TraverseXDocument.pdb" />
+      <dir name="TempPE" />
+    </dir>
+  </dir>
+  <dir name="Properties">
+    <file name="AssemblyInfo.cs" />
+  </dir>
+</dir>
